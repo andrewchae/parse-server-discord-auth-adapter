@@ -1,0 +1,11 @@
+{
+  "name": "parse-server-discord-auth-adapter",
+  "version": "1.0.3",
+  "main": "src/index.js",
+  "repository": "https://github.com/andrewchae/parse-server-discord-auth-adapter.git",
+  "author": "Andrew Chae",
+  "license": "MIT",
+  "dependencies": {
+    "parse": "^1.11.0"
+  }
+}
